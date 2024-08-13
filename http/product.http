@@ -1,0 +1,17 @@
+### 상품 생성
+POST localhost:8080/api/products
+Content-Type: application/json
+
+{
+  "name":  "product1",
+  "description": "desc1",
+  "price": 1000
+}
+
+
+
+### 상품 목록
+GET localhost:8080/api/products
+Content-Type: application/json
+
+

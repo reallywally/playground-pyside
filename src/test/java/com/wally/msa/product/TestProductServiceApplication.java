@@ -1,5 +1,6 @@
 package com.wally.msa.product;
 
+import com.wally.msa.ProductServiceApplication;
 import org.springframework.boot.SpringApplication;
 
 public class TestProductServiceApplication {
